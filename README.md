@@ -4,9 +4,11 @@
 This backend is built so that owners of E-Commerce websites are able to upload their products to their websites and users of their sites will be able to look for products by categories, tags, and specific items.
 
 ## Screenshot
+![alt text](./assets/categoriesGet.PNG)
+![alt text](./assets/productsGet.PNG)
+![alt text](./assets/tagsGet.PNG)
 
 ## Using the E-Commerce Backend
-
 ### Get requests
 In order to get the categories, tags or items, you would need to use the get request.
 
